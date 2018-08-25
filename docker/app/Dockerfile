@@ -4,7 +4,6 @@ MAINTAINER Admin rememberthatk@icloud.com
 ENV RAILS_ROOT /root/best_config
 ENV RAILS_ENV production
 ENV RAKE_ENV production
-ENV RAILS_MASTER_KEY <master>
 
 WORKDIR $RAILS_ROOT
 
